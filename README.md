@@ -1,4 +1,4 @@
-(# Image Captioning
+# Image Captioning
 Intelligent Image Captioning System
 
 ## Table of Contents
@@ -30,7 +30,7 @@ The Image Captioning model is an advanced system that generates descriptive capt
 
 ## Demo
 ### Demo Videos
-[You can watch a demonstration of SpeakingEyes generating captions for various images](here).
+You can watch a demonstration of SpeakingEyes generating captions for various images <a href="https://github.com/" target="_blank">here</a>.
 
 ## Contributing:
 - <a href="https://github.com/IsraaSaede" target="_blank">IsraaSaede</a>
