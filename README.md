@@ -29,8 +29,8 @@ The Image Captioning model is an advanced system that generates descriptive capt
 - Data Processing: Pandas, NumPy
 
 ## Demo
-### Demo Videos
-You can watch a demonstration of SpeakingEyes generating captions for various images <a href="https://github.com/" target="_blank">here</a>.
+You can see the demo with this video: [Click here](https://github.com/marah-ghanem/ImageCaptioning/blob/main/ImageCapDemo.mp4)
+
 
 ## Contributing:
 - <a href="https://github.com/IsraaSaede" target="_blank">IsraaSaede</a>
