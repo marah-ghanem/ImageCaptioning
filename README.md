@@ -29,8 +29,9 @@ The Image Captioning model is an advanced system that generates descriptive capt
 - Data Processing: Pandas, NumPy
 
 ## Demo
-You can see the demo with this video: [Click here](https://github.com/marah-ghanem/ImageCaptioning/blob/main/ImageCapDemo.mp4)
-Watch the video on YouTube: [Check it out here!](https://youtube.com/shorts/FP943QmOxoY?feature=share)
+- You can see the demo with this video: [Click here](https://github.com/marah-ghanem/ImageCaptioning/blob/main/ImageCapDemo.mp4)
+- Watch the video on YouTube: [Check it out here!](https://youtube.com/shorts/FP943QmOxoY?feature=share)
+- <br>
 <img src="https://github.com/marah-ghanem/ImageCaptioning/blob/main/Demo.gif" width="280" height="550">
 
 
