@@ -30,7 +30,7 @@ The Image Captioning model is an advanced system that generates descriptive capt
 
 ## Demo
 You can see the demo with this video: [Click here](https://github.com/marah-ghanem/ImageCaptioning/blob/main/ImageCapDemo.mp4)
-<img src="https://github.com/marah-ghanem/ImageCaptioning/blob/main/ImageCapDemo.mp4" width="280" height="550">
+<img src="https://github.com/marah-ghanem/ImageCaptioning/blob/main/Demo.gif" width="280" height="550">
 
 
 ## Contributing:
