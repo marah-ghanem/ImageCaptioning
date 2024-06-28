@@ -21,6 +21,12 @@ The Image Captioning model is an advanced system that generates descriptive capt
 
 ### Transformer-based Sequence Generation:
 - Encoder-Decoder Architecture: Incorporates Transformer layers for both encoding image features and generating captions, leveraging the power of attention mechanisms to handle complex language structures.
+  
+## Download Pre-trained Weights and Data
+To get started with the Image Captioning project, you need to download the pre-trained weights and the pickle file. You can download them from the following links:
+- **Weights**: [Download Weights]([https://example.com/weights_file](https://drive.google.com/file/d/18XD1hVZ-Ac0v6wFla5YRnRRUAQT9IJT0/view?usp=drive_link))
+- **Pickle File**: [Download Pickle File]([https://example.com/pickle_file](https://drive.google.com/file/d/1rxtRXclTrXnmd4jZubyQawrsWjgkU1wl/view?usp=drive_link))
+
 
 ## Technologies Used
 - Programming Languages: Python
